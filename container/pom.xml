@@ -23,6 +23,7 @@
     <modules>
         <module>common</module>
         <module>jbosgi</module>
+        <module>equinox</module>
         <module>felix</module>
         <module>karaf</module>
     </modules>
